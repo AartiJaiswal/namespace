@@ -1,0 +1,1 @@
+kubectl apply -f "$RootPath\03-allow-ingress-from-istio.yaml"
